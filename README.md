@@ -9,3 +9,6 @@ Dig Time (ms) : Time taken for Collect Deposit slider to obtain Perfect digs in 
 -Ensure you convert from seconds (s) to milliseconds (ms). Eg. time in seconds * 10 = time in milliseconds
 
 S/W Hold (ms) : Time taken for user's roblox character to reach location for panning
+
+
+This was made using AI, not a single line of code was manually changed.
